@@ -14,6 +14,7 @@ Connect AC Input Phase wire to INPUT
 Connect Bulb Phase wire to OUTPUT
 
 For making own AC dimmer circuit:
+
 https://www.instructables.com/How-to-Build-an-Isolated-Digital-AC-Dimmer-Using-A/
 
 https://circuitdigest.com/microcontroller-projects/arduino-ac-light-dimmer-using-triac
