@@ -18,6 +18,8 @@ https://www.instructables.com/How-to-Build-an-Isolated-Digital-AC-Dimmer-Using-A
 
 https://circuitdigest.com/microcontroller-projects/arduino-ac-light-dimmer-using-triac
 
+https://microcontrollerslab.com/moc3021-pinout-examples-datasheet-working-applications/
+
 Detailed explanation of AC dimmer circuit and code:
 https://www.aranacorp.com/en/using-an-ac-light-dimmer-with-arduino/
 
