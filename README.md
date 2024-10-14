@@ -21,7 +21,11 @@ https://circuitdigest.com/microcontroller-projects/arduino-ac-light-dimmer-using
 
 https://microcontrollerslab.com/moc3021-pinout-examples-datasheet-working-applications/
 
+https://www.instructables.com/AC-PWM-Dimmer-for-Arduino/
+
+
 Detailed explanation of AC dimmer circuit and code:
+
 https://www.aranacorp.com/en/using-an-ac-light-dimmer-with-arduino/
 
 
