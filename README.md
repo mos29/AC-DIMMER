@@ -28,4 +28,5 @@ Detailed explanation of AC dimmer circuit and code:
 
 https://www.aranacorp.com/en/using-an-ac-light-dimmer-with-arduino/
 
+https://dxarts.washington.edu/wiki/ac-dimmer-circuit
 
